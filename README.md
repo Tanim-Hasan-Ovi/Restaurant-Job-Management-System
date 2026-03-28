@@ -4,7 +4,7 @@ A comprehensive web-based application designed to streamline human resource oper
 
 ---
 
-###  [Live Demo](https://rh-jobs-ovi.kesug.com)
+###  *Live Demo: (https://rh-jobs-ovi.kesug.com)
 
 ---
 
