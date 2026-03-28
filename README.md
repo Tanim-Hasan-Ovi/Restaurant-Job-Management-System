@@ -31,7 +31,7 @@ A comprehensive web-based application designed to streamline human resource oper
 
 ---
 
-### 📝 How to run this project locally:
+### How to run this project locally:
 1. Clone the repository: `git clone https://github.com/Tanim-Hasan-Ovi/Restaurant-Job-Management-System`
 2. Set up a local server (XAMPP/WAMP).
 3. Import the database file (SQL).
