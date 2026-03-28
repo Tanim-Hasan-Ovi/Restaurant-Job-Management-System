@@ -41,6 +41,5 @@ A comprehensive web-based application designed to streamline human resource oper
 
 ## 👨‍💻 Developed By
 
-**[Tanim Hasan Ovi](https://github.com/Tanim-Hasan-Ovi)** *Computer Science & Engineering Graduate*
+**[Tanim Hasan Ovi](https://github.com/Tanim-Hasan-Ovi)**
 
----
