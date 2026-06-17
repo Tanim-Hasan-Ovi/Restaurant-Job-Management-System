@@ -117,16 +117,16 @@ $header = mysqli_query($conn,"SELECT * FROM profile where user_email = '{$_SESSI
           </div>
           <div class="w-100"></div>
           <div class="col-md-3">
-            <p><span>Address:</span> United City, Madani Ave, Dhaka 1212</p>
+            <p><span>Address:</span> Road 05, Baridhara J Block, Vatara, Dhaka-1212</p>
           </div>
           <div class="col-md-3">
-            <p><span>Phone:</span> <a href="tel://1234567920">09604-848848</a></p>
+            <p><span>Phone:</span> <a href="tel://1234567920">01755776136</a></p>
           </div>
           <div class="col-md-3">
-            <p><span>Email:</span> <a href="mailto:info@uiu.ac.bd">info@uiu.ac.bd</a></p>
+            <p><span>Email:</span> <a href="mailto:info@uiu.ac.bd">2125051112@uits.edu.bd</a></p>
           </div>
           <div class="col-md-3">
-            <p><span>Website</span> <a href="https://www.uiu.ac.bd/">www.uiu.ac.bd</a></p>
+            <p><span>Website</span> <a href="https://www.uiu.ac.bd/">www.uits.ac.bd</a></p>
           </div>
         </div>
         <div class="row block-9">
